@@ -12,8 +12,9 @@ This is my personal portfolio website built using HTML5 and CSS3.
 
 ## Live Website
 
-https://yourusername.github.io/portfolio/
+https://yasini-tx.github.io/portfolio/
 
 ## Author
 
-Yasin# portfolio
+Yasini Hamisi Saidi# portfolio
+# portfolio
